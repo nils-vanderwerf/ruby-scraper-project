@@ -1,7 +1,16 @@
+What did I do
+1. Fetched the dependency gems
+    -'nokogiri' - API for querying HTML documents
+    - require 'httparty' - getting the website url
+    - require 'byebug' - debugger
+
+2. Bundle install
+3. Set up executable file .bin/promotions
+
 
 Design
 1. User types in find-a-promotion
-2. Whast would you like a promotion in?
+2. What would you like a promotion in?
 
 
 1. Automotive

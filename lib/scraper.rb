@@ -13,3 +13,9 @@ def scraper
 end
 
 scraper
+
+##Activity instances
+# spa = Activity.new('spa day')
+
+# class Activity
+#     attr_accessor :name, :promotion,
